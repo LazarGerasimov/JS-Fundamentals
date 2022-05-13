@@ -20,6 +20,9 @@ There are also discounts based on some conditions:
 ·	Regular – if the group is bigger than or equal to 10 and less than or equal to 20 reduce the total price by 5%
 
 Note: You should reduce the prices in that EXACT order.
+
+
+
 Examples
 
 
