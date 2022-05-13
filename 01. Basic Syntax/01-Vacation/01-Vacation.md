@@ -6,10 +6,10 @@ The output should look like that: `Total price: {price}`.The price should be for
 
 
 
-		Friday		Saturday	Sunday
-Students	8.45		9.80			10.46
-Business	10.90		15.60			16
-Regular	15	20		22.50
+			Friday			Saturday			Sunday
+Students	8.45			9.80				10.46
+Business	10.90			15.60				16
+Regular		15				20					22.50
 
 
 
