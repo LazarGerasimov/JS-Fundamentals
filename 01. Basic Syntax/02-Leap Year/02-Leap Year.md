@@ -6,7 +6,7 @@ Write a JS function to check whether a year is a leap. Leap years are either div
 
 
 Examples
-	Input	Output
-	1984	yes
-	2003	no
-	4	yes
+Input	Output
+1984	yes
+2003	no
+4	yes
